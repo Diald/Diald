@@ -1,5 +1,5 @@
 <h1>Welcome to my GitHub! </h1>
-###hello
+## Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Diald&theme=radical)
 # stats
 <!--

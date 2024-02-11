@@ -12,7 +12,7 @@
 
 Trophies 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Diald&theme=tokyonight)](https://github.com/Diald/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Diald&theme=tokyonight&row=2&column=3)](https://github.com/Diald/github-profile-trophy)
 
 <!--
 **Diald/Diald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

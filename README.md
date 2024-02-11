@@ -7,10 +7,11 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Diald&count_private=true&theme=tokyonight&showicons=true)]()
 
-<h5>Most Used Languages</h5>
+My Most Used Languages- 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Diald&langs_count=5&theme=tokyonight)]()
 
-<h5>Trophies</h5>
+Trophies 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Diald&theme=tokyonight)](https://github.com/Diald/github-profile-trophy)
 
 <!--

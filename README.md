@@ -10,9 +10,21 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Diald&langs_count=5&theme=tokyonight)]()
 
-Trophies 
+h3> Github Statistics 📈</h3>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Diald&theme=tokyonight&row=2&column=3)](https://github.com/Diald/github-profile-trophy)
+<p align="center">
+<img width="1000px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishalde&theme=tokyonight" /> 
+  <br />
+<img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bishalde&theme=tokyonight"/>&nbsp;
+<img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bishalde&theme=tokyonight&utcOffset=8"/>&nbsp;
+  <br />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bishalde&theme=tokyonight" />&nbsp;
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bishalde&theme=tokyonight" />
+  <br />
+<img  height="310px" src="https://github-readme-streak-stats.herokuapp.com/?user=BishalDe&theme=tokyonight&hide_border=true" />
+</p>
+
 
 <!--
 **Diald/Diald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

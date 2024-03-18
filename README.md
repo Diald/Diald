@@ -11,18 +11,17 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Diald&langs_count=5&theme=tokyonight)]()
 
 h3> Github Statistics 📈</h3>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
-<img width="1000px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishalde&theme=tokyonight" /> 
+<img width="1000px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diald&theme=tokyonight" /> 
   <br />
-<img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bishalde&theme=tokyonight"/>&nbsp;
-<img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bishalde&theme=tokyonight&utcOffset=8"/>&nbsp;
+<img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diald&theme=tokyonight"/>&nbsp;
+<img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diald&theme=tokyonight&utcOffset=8"/>&nbsp;
   <br />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bishalde&theme=tokyonight" />&nbsp;
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bishalde&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diald&theme=tokyonight" />&nbsp;
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diald&theme=tokyonight" />
   <br />
-<img  height="310px" src="https://github-readme-streak-stats.herokuapp.com/?user=BishalDe&theme=tokyonight&hide_border=true" />
+<img  height="310px" src="https://github-readme-streak-stats.herokuapp.com/?user=Diald&theme=tokyonight&hide_border=true" />
 </p>
 
 

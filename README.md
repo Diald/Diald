@@ -10,7 +10,6 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Diald&langs_count=5&theme=tokyonight)]()
 
-<img  height="310px" src="https://github-readme-streak-stats.herokuapp.com/?user=Diald&theme=tokyonight&hide_border=true" />
 </p>
 
 

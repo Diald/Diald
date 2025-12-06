@@ -2,8 +2,6 @@
 <p>Hi! My Name is Divya Gambhir. I'm eager to learn, collaborate and connect with people. </p>
 <p>&#x2709; Mail- divya.gambhir2003@gmail.com</p>
 <p>&#9990; Contact- +91 8130587348</p>
-<h2>My Profile Status</h2>
-<a href="https://github.com/users/Diald/achievements/pull-shark"></a>
 
 
 <!--

@@ -5,13 +5,6 @@
 <h2>My Profile Status</h2>
 <a href="https://github.com/users/Diald/achievements/pull-shark"></a>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Diald&count_private=true&theme=tokyonight&showicons=true)]()
-
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Diald&langs_count=5&theme=tokyonight)]()
-
-</p>
-
 
 <!--
 **Diald/Diald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

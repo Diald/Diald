@@ -1,7 +1,5 @@
 <h1>Welcome to my GitHub! </h1>
 <p>Hi! My Name is Divya Gambhir. I'm eager to learn, collaborate and connect with people. </p>
-<p>&#x2709; Mail- divya.gambhir2003@gmail.com</p>
-<p>&#9990; Contact- +91 8130587348</p>
 
 
 <!--

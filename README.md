@@ -1,5 +1,5 @@
 <h1>Welcome to my GitHub! </h1>
-<p>Hi! My Name is Divya Gambhir. I'm eager to learn, collaborate and connect with people. </p>
+<p>Hi! My Name is Divya Gambhir. Developing stuff to feel sane. </p>
 
 
 <!--
